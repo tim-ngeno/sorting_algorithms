@@ -6,7 +6,7 @@
  * @list: double pointer to the beginning of the list
  * @node: node to swap
  *
- * Return: void
+ * Return: nothing
  */
 void swap(listint_t **list, listint_t *node)
 {
