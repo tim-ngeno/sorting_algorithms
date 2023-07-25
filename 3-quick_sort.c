@@ -3,8 +3,8 @@
 /**
  * swap - swaps two items in an array.
  * @array: input array
- * @l: index of the left item.
- * @r: index of the right item.
+ * @l: index of the left item
+ * @r: index of the right item
  */
 void swap(int *array, size_t l, size_t r)
 {
@@ -61,8 +61,8 @@ void quick_sort_lomuto(int *array, size_t low, size_t high, size_t size)
 /**
  * quick_sort - sorts an array of integers using the
  * quick sort algorithm
- * @array: The array to sort.
- * @size: The length of the array.
+ * @array: array to sort.
+ * @size: length of the array.
  */
 void quick_sort(int *array, size_t size)
 {
