@@ -50,7 +50,6 @@ For example, an algorithm with a time complexity of O(n^2) means that the number
 
 ## Conclusion
 
-In this README, we discussed various sorting algorithms implemented in C, including Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, and Heap Sort. We also introduced the concept of Big O notation and explained how to evaluate the time complexity of an algorithm.
+In this README, we discussed various sorting algorithms in C, including Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, and Heap Sort. We also introduced the concept of Big O notation and explained how to evaluate the time complexity of an algorithm.
 
 A good understanding of these concepts is instrumental in making informed decisions when selecting sorting algorithms for different scenarios, and analyzing their efficiency based on the input size.
-
