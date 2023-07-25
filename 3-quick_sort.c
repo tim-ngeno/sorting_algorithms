@@ -20,11 +20,11 @@ void swap(int *array, size_t l, size_t r)
 
 /**
  * quick_sort_lomuto - sorts a part of an array
- * using the Lomuto partition scheme.
+ * using the Lomuto partition scheme
  * @array: input array
  * @low: first index of array
  * @high: last index of array
- * @size: number of items in the array.
+ * @size: number of items in the array
  */
 void quick_sort_lomuto(int *array, size_t low, size_t high, size_t size)
 {
@@ -61,8 +61,8 @@ void quick_sort_lomuto(int *array, size_t low, size_t high, size_t size)
 /**
  * quick_sort - sorts an array of integers using the
  * quick sort algorithm
- * @array: array to sort.
- * @size: length of the array.
+ * @array: array to sort
+ * @size: length of the array
  */
 void quick_sort(int *array, size_t size)
 {
