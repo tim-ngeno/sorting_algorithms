@@ -2,11 +2,11 @@
 
 /**
  * shell_sort - sort an array of integers in ascending order
- * using the Shell sort algorithm, using the Knuth sequence
+ * using the Shell sort algorithm, usig the Knuth sequence
  * @array: the input array
  * @size: size of the array
  *
- * Return: void
+ * Return: Always 0
  */
 void shell_sort(int *array, size_t size)
 {
